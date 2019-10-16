@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KurirGoBang</string>
+    <string name="nomor_tilang">Nomor Tilang</string>
+    <string name="d221098">D221098</string>
+    <string name="nama">Nama</string>
+    <string name="fathurrohman">Fathurrohman</string>
+    <string name="jenis_kendaraan">Jenis Kendaraan</string>
+    <string name="sepeda_motor">Sepeda Motor</string>
+    <string name="barang_bukti">Barang Bukti</string>
+    <string name="stnk">STNK</string>
+    <string name="denda">Denda</string>
+    <string name="rp">Rp 51.000</string>
+    <string name="_22_oktober_2019">22 Oktober 2019</string>
+    <string name="nik">NIK</string>
+    <string name="detail">Detail Pembayaran</string>
+</resources>
